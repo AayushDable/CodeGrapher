@@ -43,7 +43,7 @@ class CodeGraphWindow(QMainWindow):
         self.undo_stack = QUndoStack(self)
         
         # Load settings
-        self.settings = QSettings('CodeVisual', 'CodeVisualApp')
+        self.settings = QSettings('CodeGrapher', 'CodeGrapherApp')
         self.current_theme = self.settings.value('theme', 'light')
         
         self.init_ui()
