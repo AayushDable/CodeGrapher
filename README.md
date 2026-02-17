@@ -4,7 +4,7 @@ A visual code navigation and documentation tool for Python projects. Create inte
 
 ## Features
 
-- **Visual Code Mapping**: Represent Python functions, classes, subdirectories, and custom elements as interactive blocks
+- **Visual and Interactive Code Mapping**: Represent Python functions, classes, subdirectories, and custom elements as interactive blocks
 - **Smart Connections**: Draw typed connections between blocks with different flow types (control flow, data flow, inheritance, etc.)
 - **Auto-Validation**: Automatically verify that functions and classes still exist in your codebase with visual indicators
 - **Directory Navigation**: Navigate through your project structure with nested subdirectory support
